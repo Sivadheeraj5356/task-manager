@@ -114,18 +114,13 @@ curl -X DELETE http://localhost:3000/api/tasks/1
 ---
 
 ## Deployment
-1. **Host the PostgreSQL Database** on **Railway** or **Supabase**.
-2. Deploy the Next.js app on **Vercel** or **Render**.
+1. **Host the PostgreSQL Database** on **Neon**.
+2. Deploy the Next.js app on **Vercel**.
 3. Set the correct **DATABASE_URL** in the production environment.
 
 ---
 
-## Submission Guidelines
-- **GitHub Repository:** `[Your GitHub URL]`
-- **Live URL:** `[Your Deployed URL]`
-- **Google Form Submission:** [Google Form Link](https://docs.google.com/forms/d/1wygUvF5lRxvS3R4XTmofuEwjAx_oYqbCUtTvQ2R5KWc/viewform?edit_requested=true)
 
----
 
 ## Author
-Developed by **[Your Name]** 🚀
+Developed by **Siva Dheeraj** 🚀
